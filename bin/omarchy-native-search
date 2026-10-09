@@ -1,0 +1,4 @@
+#!/bin/bash
+set -euo pipefail
+root=$(dirname "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")")
+exec /usr/bin/python3 -B "$root/components/native-search/public_cli.py" "$@"

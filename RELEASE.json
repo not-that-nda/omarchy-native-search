@@ -1,0 +1,33 @@
+{
+  "files": {
+    ".github/workflows/checks.yml": "ad2e838b0bbd4957f07c9095fe86940493d3a8faa2bf541b0c5ea1a7c5babf1c",
+    ".gitignore": "eba8f58e88e20c1bfb7fcaaf4df3d8feee7f5aef72bfc1c408725e5449d4039d",
+    "CHANGELOG.md": "13dd6f4d71aa30c8deb7b5b72f73c598ca171ea41da4938ecdb49b8856f5c556",
+    "LICENSE": "cd3ffd6a378094240170061fdae6c88dd29c5981847e985d3a679880c081f405",
+    "PROPOSAL.md": "f73d85fcf82bd57491400a1f68336064497cc1c837661c99f47a861f6e7bac3f",
+    "README.md": "911a6d9ef3900222e1547e23d88669e2c80f6bdeba1ab80a2bddccfde434be35",
+    "VERSION": "a0a73947016ecc71eba6a3a403d351695202a3a397df2aa9e3fd34c2e08e5413",
+    "bin/omarchy-native-search": "1bb7baf133c626c330907879ead3c1b70a3f016cebcfcf7498c912dbd47bb3ff",
+    "components/native-search/Search.qml": "34d4f7a8f5386e35994fdbebb8c19ca40aede3376a46064b725cf6194064f985",
+    "components/native-search/helper.py": "b46f1bef8af6cd3c50f659ca4ac86e714a19db94b4fbf2158dc1f5f7a492ff5b",
+    "components/native-search/lifecycle.py": "83ee1b0f8d68f6401fa018db642c80dbc0cc87e54badbde7ad69709d03ec5dd5",
+    "components/native-search/manifest.json": "2bcfbdcf84aa87ae1c7d12e2ca1260672a2d27269200d4c268e6aae7a9da1b43",
+    "components/native-search/ns_actions.py": "e8b4f950380c9f2682c108a923833ef3e6f5944870c262124c850d6d3889749d",
+    "components/native-search/ns_config.py": "cd211f59de9e91e885f1e06e636476cc7db133ee9805371fd48d1ae0e17d96cb",
+    "components/native-search/ns_fuzzy.py": "3f110137eb9d603c1fb137b01d0f4e82a978dd5dd84bcfafe378b3cc0a2d2106",
+    "components/native-search/ns_index.py": "721a5addbeaa363f82fc9487da620bced8ddb2b4654359e6f0cb841602b5849b",
+    "components/native-search/ns_preview.py": "c2d297b628df561f968b4aa2fda3071aa4d9dc9eb52412a7d0fb5935e71ecd8c",
+    "components/native-search/ns_search.py": "48eabf8eb94adc79e5ed9dbd5bdf27f80c3082426e34db6a69f212064b845e62",
+    "components/native-search/public_cli.py": "baed4ef009fea1673d688fc057a4a134a17447523a97dd5f412e0271032aadbd",
+    "dev/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "dev/tests/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "dev/tests/test_native_search.py": "75699ade136e0a472be838792bcc9a96db0744829f8fb291d49841bd06a14460",
+    "dev/tests/test_native_search_preview.py": "dcce2d11313329b7c4955e6790207fa2f37bc6a4712573ad7e6908daa7d5fcd8",
+    "dev/tests/test_public_package.py": "baf9f7e1971ed812d6e82c64eef6212ccbc77ca56d4c268fde8dd702f6c6d54c",
+    "docs/screenshots/collapsed.png": "d59eb32e2d070faffb85f3788462011258fe5516659916ecdc7138d319fd8fa7",
+    "docs/screenshots/expanded.png": "e8e1561cf6c29ef5ccf9ba57e6298ae255ab3a258f7f77b95f97b0be34421c69"
+  },
+  "schema": 1,
+  "source_fingerprint": "6ef8a76cf51dc499e10276c47578983f542a547682be3ad40cf9c2a2d614d72a",
+  "version": "0.1.0-preview.5"
+}

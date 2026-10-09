@@ -1,0 +1,15 @@
+{
+  "author": "NDA",
+  "description": "Private indexed filename search with explicit roots and freshness",
+  "entryPoints": {
+    "menu": "Search.qml"
+  },
+  "id": "nda.native-search",
+  "keepLoaded": true,
+  "kinds": [
+    "menu"
+  ],
+  "name": "Native Search",
+  "schemaVersion": 1,
+  "version": "0.1.0-preview.5"
+}
