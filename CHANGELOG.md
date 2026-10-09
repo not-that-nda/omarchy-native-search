@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-preview.6
+
+Community launch: add feature-voting and Q&A links, structured bug/idea/question forms, support and contribution guidance, and a roadmap. Native Search remains an optional standalone community tool; no default Omarchy inclusion is requested. Application behavior is unchanged.
+
 ## 0.1.0-preview.5
 
 Crop both README screenshots tightly around the tool with a small wallpaper margin, making the compact input and expanded results/preview readable at normal README width. Application behavior is unchanged.

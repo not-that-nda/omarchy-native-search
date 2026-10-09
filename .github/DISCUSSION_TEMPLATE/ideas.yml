@@ -1,0 +1,23 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please search and upvote an existing idea before creating a duplicate. Votes inform priorities but do not promise a delivery date."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Describe the workflow and what success would look like.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or examples
+      description: Use synthetic data and avoid personal files or credentials.

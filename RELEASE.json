@@ -1,17 +1,24 @@
 {
   "files": {
+    ".github/DISCUSSION_TEMPLATE/ideas.yml": "0016a307ffa2c46a39813643d782644018bbc833bb3601abcbd3150a21b32707",
+    ".github/DISCUSSION_TEMPLATE/q-a.yml": "1b5d7453a853250294094e106cfe002e437989e44325ded4a6701c22ba305dd3",
+    ".github/ISSUE_TEMPLATE/bug-report.yml": "4307cdbe62824b4640cb2c2077ae0700889ea5d3495e2930a148576b99ae37c5",
+    ".github/ISSUE_TEMPLATE/config.yml": "e5a6e535f1b125db065dae998a38fdb245a03f912371cfce9e66cf957ce455a4",
     ".github/workflows/checks.yml": "ad2e838b0bbd4957f07c9095fe86940493d3a8faa2bf541b0c5ea1a7c5babf1c",
     ".gitignore": "eba8f58e88e20c1bfb7fcaaf4df3d8feee7f5aef72bfc1c408725e5449d4039d",
-    "CHANGELOG.md": "13dd6f4d71aa30c8deb7b5b72f73c598ca171ea41da4938ecdb49b8856f5c556",
+    "ANNOUNCEMENT.md": "533ae04d93ca6b5e31a1e3481abe40aa3de2702057d840124cb620fad8081377",
+    "CHANGELOG.md": "2ca3108e0ad1e5edda91ebae50aa6812cdadc90ec87ef0f4e3b979f48e4c4a52",
+    "CONTRIBUTING.md": "c06265d7aaa7641ac1fa03f94c70e218dc2dd4d9a0cafbcb272559f14999b468",
     "LICENSE": "cd3ffd6a378094240170061fdae6c88dd29c5981847e985d3a679880c081f405",
-    "PROPOSAL.md": "f73d85fcf82bd57491400a1f68336064497cc1c837661c99f47a861f6e7bac3f",
-    "README.md": "911a6d9ef3900222e1547e23d88669e2c80f6bdeba1ab80a2bddccfde434be35",
-    "VERSION": "a0a73947016ecc71eba6a3a403d351695202a3a397df2aa9e3fd34c2e08e5413",
+    "README.md": "223fdbffc35d128c89ee77446efead45f32276c047885e1ddea1d5f47c47e1f6",
+    "ROADMAP.md": "ed0c080fe7781d036e15636e05922a82dd227b8c2003f08095f92304bcaa190b",
+    "SUPPORT.md": "f1ef11772afef0991d476b57ffde148cffbc677ecb5115470def414b4880ef39",
+    "VERSION": "c125a0a85fbdb1012dff84526d877f6f0971a191a80145b4f3e9546fc5baac80",
     "bin/omarchy-native-search": "1bb7baf133c626c330907879ead3c1b70a3f016cebcfcf7498c912dbd47bb3ff",
     "components/native-search/Search.qml": "34d4f7a8f5386e35994fdbebb8c19ca40aede3376a46064b725cf6194064f985",
     "components/native-search/helper.py": "b46f1bef8af6cd3c50f659ca4ac86e714a19db94b4fbf2158dc1f5f7a492ff5b",
     "components/native-search/lifecycle.py": "83ee1b0f8d68f6401fa018db642c80dbc0cc87e54badbde7ad69709d03ec5dd5",
-    "components/native-search/manifest.json": "2bcfbdcf84aa87ae1c7d12e2ca1260672a2d27269200d4c268e6aae7a9da1b43",
+    "components/native-search/manifest.json": "40e49cae6e2fccb380c1b10b42cbd67409951c964ad6a7c80de1da85c1389719",
     "components/native-search/ns_actions.py": "e8b4f950380c9f2682c108a923833ef3e6f5944870c262124c850d6d3889749d",
     "components/native-search/ns_config.py": "cd211f59de9e91e885f1e06e636476cc7db133ee9805371fd48d1ae0e17d96cb",
     "components/native-search/ns_fuzzy.py": "3f110137eb9d603c1fb137b01d0f4e82a978dd5dd84bcfafe378b3cc0a2d2106",
@@ -28,6 +35,6 @@
     "docs/screenshots/expanded.png": "e8e1561cf6c29ef5ccf9ba57e6298ae255ab3a258f7f77b95f97b0be34421c69"
   },
   "schema": 1,
-  "source_fingerprint": "6ef8a76cf51dc499e10276c47578983f542a547682be3ad40cf9c2a2d614d72a",
-  "version": "0.1.0-preview.5"
+  "source_fingerprint": "04a10de007b6dc26d5853ca6670df61d7a7ad1afd3111a3aef0163818f10d80f",
+  "version": "0.1.0-preview.6"
 }

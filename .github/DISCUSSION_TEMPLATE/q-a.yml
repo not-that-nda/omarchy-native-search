@@ -1,0 +1,17 @@
+title: "[Question] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Native Search and Omarchy versions
+  - type: textarea
+    id: question
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Include only redacted diagnostics or synthetic examples.

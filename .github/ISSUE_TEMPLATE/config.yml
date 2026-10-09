@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature requests and voting
+    url: https://github.com/not-that-nda/omarchy-native-search/discussions/categories/ideas
+    about: Search existing ideas, upvote useful requests, or propose a new one.
+  - name: Installation and usage questions
+    url: https://github.com/not-that-nda/omarchy-native-search/discussions/categories/q-a
+    about: Ask the community for help using Native Search.

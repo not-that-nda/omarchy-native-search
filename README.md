@@ -2,6 +2,8 @@
 
 An optional, local file finder for Omarchy's Quickshell desktop. A centered input expands downward as you type; a panel on the right previews the selected document.
 
+[Download the preview](https://github.com/not-that-nda/omarchy-native-search/releases) · [Install](#install) · [Request / vote on features](https://github.com/not-that-nda/omarchy-native-search/discussions/categories/ideas) · [Ask a question](https://github.com/not-that-nda/omarchy-native-search/discussions/categories/q-a) · [Report a bug](https://github.com/not-that-nda/omarchy-native-search/issues/new/choose) · [Roadmap](ROADMAP.md)
+
 **Preview release.** This is an independent community plugin, not an official Omarchy component. Filename indexes are snapshots, not real-time filesystem watches. Public packaging is tested in isolated user profiles; see `RELEASE.json` for artifact identity and release notes for acceptance limits.
 
 ## Screenshots
@@ -86,6 +88,8 @@ Runtime ownership retains the original component namespace: plugin `nda.native-s
 Only configured, mounted, readable roots are indexed; no privileged indexing or remote/cloud-only files. Default omissions include caches, trash, node_modules and .git directories. Indexes contain private filenames and are user-readable only. Queries, previews and auth credentials are not published or logged by default. There is no cloud/AI/telemetry dependency.
 
 ## Development
+
+This is an optional community-maintained tool, not a proposal to include it in Omarchy's default installation. Please keep Native Search requests in this repository rather than filing them against Omarchy itself. Feature ideas are searchable and can be upvoted in Discussions; bugs go to Issues. Reports are reviewed in batches without a guaranteed response time. See [Support](SUPPORT.md) and [Contributing](CONTRIBUTING.md).
 
 ```sh
 python3 -m unittest discover -s dev/tests -p 'test_*.py' -v

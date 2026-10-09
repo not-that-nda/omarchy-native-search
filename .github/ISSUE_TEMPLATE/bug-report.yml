@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a reproducible Native Search problem
+title: "[Bug] "
+labels: [bug, needs-triage]
+body:
+  - type: markdown
+    attributes:
+      value: "Search existing reports first. For questions or feature ideas, use Discussions. Remove personal paths, emails and tokens from any logs or screenshots."
+  - type: input
+    id: version
+    attributes:
+      label: Native Search version
+      placeholder: "Output of omarchy-native-search version"
+    validations:
+      required: true
+  - type: input
+    id: desktop
+    attributes:
+      label: Omarchy and Quickshell versions
+      placeholder: "Include whether you use the Quickshell plugin shell"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: "Use sample filenames instead of private documents."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional diagnostics or synthetic screenshots
+      description: "Check selected roots, filters, index age and mounted drives before reporting missing results."
